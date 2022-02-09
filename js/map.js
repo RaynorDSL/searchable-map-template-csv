@@ -14,7 +14,7 @@ $(function() {
     recordNamePlural: 'campus buildings',
     map_centroid: [43.038328289184854, -87.92968179785548],
     defaultZoom:  11,
-    defaultRadius: 1610,
+    defaultRadius: 750,
     debug: false,
   });
 
