@@ -10,9 +10,9 @@ $(function() {
   SearchableMapLib.initialize({
     filePath: 'data/chicago-flu-shot-locations-2019.csv',
     fileType: 'csv',
-    recordName: 'flu shot location',
-    recordNamePlural: 'flu shot locations',
-    map_centroid: [41.85754, -87.66231],
+    recordName: 'campus building',
+    recordNamePlural: 'campus buildings',
+    map_centroid: [43.038328289184854, -87.92968179785548],
     defaultZoom:  11,
     defaultRadius: 1610,
     debug: false,
